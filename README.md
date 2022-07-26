@@ -20,4 +20,9 @@ ResNet은 이러한 여러 문제점을 보안하기 위하여 예측하려는 o
 ResNet 학습 방식: x->weight layer -> activation -> weight layer-> F(x)+x(앞서 학습된 정보 그대로 가져오고 F(x)=잔여정보) -> activation = Residual Block 
 
 
+ResNet 구조
+======
+
+![image](https://user-images.githubusercontent.com/104436260/180899320-a62503ce-6a0e-478d-85b5-373174b65a66.png)
+
 
