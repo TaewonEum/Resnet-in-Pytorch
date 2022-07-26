@@ -32,12 +32,6 @@ Conv1 define
 
 Conv1 define 
 
-Bottle Neck
-====
-
-![image](https://user-images.githubusercontent.com/104436260/180935601-ddeacde7-eba1-4f12-8a2b-ffc35e0977b7.png)
-
-
 
 Conv1x1, Conv3x3 define
 ========
@@ -48,4 +42,10 @@ Basic Block (ResNet18, ResNet34에서 사용)
 ======
 
 ![image](https://user-images.githubusercontent.com/104436260/180930474-5d38861d-ce1a-4f6b-9df6-8b22d5c8aabe.png)
+
+
+Bottle Neck
+====
+
+![image](https://user-images.githubusercontent.com/104436260/180935601-ddeacde7-eba1-4f12-8a2b-ffc35e0977b7.png)
 
