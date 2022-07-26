@@ -25,4 +25,8 @@ ResNet 구조
 
 ![image](https://user-images.githubusercontent.com/104436260/180899320-a62503ce-6a0e-478d-85b5-373174b65a66.png)
 
+Conv1 define
 
+![image](https://user-images.githubusercontent.com/104436260/180921724-833ea279-7464-4af4-8c4a-ae7f8f614ca5.png)
+
+Conv1 define 
