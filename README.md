@@ -32,6 +32,12 @@ Conv1 define
 
 Conv1 define 
 
+Bottle Neck
+====
+
+![image](https://user-images.githubusercontent.com/104436260/180935601-ddeacde7-eba1-4f12-8a2b-ffc35e0977b7.png)
+
+
 
 Conv1x1, Conv3x3 define
 ========
