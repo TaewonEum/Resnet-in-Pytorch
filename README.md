@@ -37,3 +37,9 @@ Conv1x1, Conv3x3 define
 ========
 
 ![image](https://user-images.githubusercontent.com/104436260/180930239-486ac59f-eefe-445d-a8d1-5eadcb0fcce8.png)
+
+Basic Block (ResNet18, ResNet34에서 사용)
+======
+
+![image](https://user-images.githubusercontent.com/104436260/180930474-5d38861d-ce1a-4f6b-9df6-8b22d5c8aabe.png)
+
