@@ -53,5 +53,8 @@ ResNet Network
 ====
 
 ![image](https://user-images.githubusercontent.com/104436260/181193262-847d5b86-0a43-498d-a56c-b1b052a34f26.png)
+![image](https://user-images.githubusercontent.com/104436260/181193459-7e85c641-a58a-4f63-862e-23be20c7b187.png)
+![image](https://user-images.githubusercontent.com/104436260/181193542-c2e736db-529e-459d-b7c1-7ae5b4272ee2.png)
+![image](https://user-images.githubusercontent.com/104436260/181193645-1e302acc-8db5-4958-b465-0393791d9e03.png)
 
 
