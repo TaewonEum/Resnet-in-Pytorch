@@ -49,3 +49,9 @@ Bottle Neck
 
 ![image](https://user-images.githubusercontent.com/104436260/180935601-ddeacde7-eba1-4f12-8a2b-ffc35e0977b7.png)
 
+ResNet Network
+====
+
+![image](https://user-images.githubusercontent.com/104436260/181193262-847d5b86-0a43-498d-a56c-b1b052a34f26.png)
+
+
