@@ -1,4 +1,4 @@
-# Resnet-in-Pytorch~7.28까지 수정 예정
+# Resnet-in-Pytorch
 
 ResNet
 =====
